@@ -35,5 +35,5 @@ mvn compile exec:java -Dexec.mainClass=ShadowMario
 Or open the project in IntelliJ IDEA and run `ShadowMario.java`.
 
 ## Credits
-- Project framework and assets provided by SWEN20003 Object Oriented Software Development, University of Melbourne. Asset credits in `res/credit.txt`.
+- Project framework and assets provided by University of Melbourne. Asset credits in `res/credit.txt`.
 - Built with the Bagel library (University of Melbourne).
